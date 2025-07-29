@@ -8,7 +8,7 @@ Welcome to **Natural-Language-Processing-with-Transformer**, a hands-on project 
 
 This repository contains a collection of **Jupyter notebooks**, organized by chapters, that go through real-world NLP tasks using transformer architectures. From translation to named entity recognition (NER), each notebook is my playground to experiment and learn.
 
-Inspired by repositories like *“Natural Language Processing with Transformers”* from the O’Reilly publication, this work strives to bring practical, engaging exercises with Hugging Face models at its core. ([github.com](https://github.com/nlp-with-transformers?utm_source=chatgpt.com))
+Inspired by repositories like *“Natural Language Processing with Transformers”* from the O’Reilly publication, this work strives to bring practical, engaging exercises with Hugging Face models at its core. ([github.com](https://github.com/nlp-with-transformers))
 
 ---
 
